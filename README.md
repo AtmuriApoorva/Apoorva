@@ -1,4 +1,4 @@
-# Biotech lab
+# Biotech
 Hemaaglutination,
 Lowry's Assay,
 Dialysis,
